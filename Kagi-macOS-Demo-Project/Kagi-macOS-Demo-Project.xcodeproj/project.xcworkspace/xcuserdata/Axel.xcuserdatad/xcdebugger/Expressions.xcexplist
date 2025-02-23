@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SidebarViewController.viewDidLoad():SidebarViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.window">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TabBarViewController.handleRemove(_:):TabBarViewController+Handlers.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tabBarView.arrangedSubviews.count - 1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SidebarViewController.tabBar(didSelectItemAt:):SidebarViewController+TabBarDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "workspaces.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.viewWillAppear():MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.window">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.viewDidLoad():MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.window">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WorkspaceView.setupLayout(_:):WorkspaceView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TabBarView.layout():TabBarView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.bounds.width">
+            </PersistentString>
+            <PersistentString
+               value = "superview.bounds.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
